@@ -1,7 +1,5 @@
 # Machine Learning Specialization
 
-### List of Lab Files
-
 - Supervised Machine Learning: Regression and Classification
   - [W1-Python Jupyter](C1/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
   - [W1-Model Representation](C1/C1_W1_Lab02_Model_Representation_Soln.ipynb)
