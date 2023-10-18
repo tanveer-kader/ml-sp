@@ -11,3 +11,4 @@
   - [W2-Linear Regression (Gradient Descent, Feature Normalization) from Scikit Learn](C1/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
   - [W2-Linear Regression Assignment](C1/Assignments/C1_W2_Linear_Regression.ipynb)
   - [W3-Contrast Regression and Classification](C1/C1_W3_Lab01_Classification_Soln.ipynb)
+  - [W3-Sigmoid Function and Logistic Regression](C1/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
