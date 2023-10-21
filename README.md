@@ -13,3 +13,4 @@
   - [W3-Contrast Regression and Classification](C1/C1_W3_Lab01_Classification_Soln.ipynb)
   - [W3-Sigmoid Function and Logistic Regression](C1/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
   - [W3-Decision Boundary](C1/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
+  - [W3-Logistic Loss](C1/C1_W3_Lab04_LogisticLoss_Soln.ipynb)
