@@ -15,3 +15,4 @@
   - [W3-Decision Boundary](C1/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
   - [W3-Logistic Loss](C1/C1_W3_Lab04_LogisticLoss_Soln.ipynb)
   - [W3-Simplified Loss & Cost Function](C1/C1_W3_Lab05_Cost_Function_Soln.ipynb)
+  - [W3-Gradient Descent for Logistic Regression](C1/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
