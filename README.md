@@ -18,3 +18,4 @@
   - [W3-Gradient Descent for Logistic Regression](C1/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
   - [W3-Logistic Regression from Scikit Learn](C1/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
   - [W3-Underfitting bestfitting overfitting](C1/C1_W3_Lab08_Overfitting_Soln.ipynb)
+  - [W3-Regularization](C1/C1_W3_Lab09_Regularization_Soln.ipynb)
