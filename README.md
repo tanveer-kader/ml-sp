@@ -19,3 +19,4 @@
   - [W3-Logistic Regression from Scikit Learn](C1/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
   - [W3-Underfitting bestfitting overfitting](C1/C1_W3_Lab08_Overfitting_Soln.ipynb)
   - [W3-Regularization](C1/C1_W3_Lab09_Regularization_Soln.ipynb)
+  - [W3-Logistic Regression Assignment](C1/Assignments/C1_W3_Logistic_Regression.ipynb)
