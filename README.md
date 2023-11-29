@@ -1,6 +1,7 @@
 # Machine Learning Specialization
 
 - Supervised Machine Learning: Regression and Classification
+
   - [W1-Python Jupyter](C1/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
   - [W1-Model Representation](C1/C1_W1_Lab02_Model_Representation_Soln.ipynb)
   - [W1-Cost Function](C1/C1_W1_Lab03_Cost_function_Soln.ipynb)
@@ -20,3 +21,21 @@
   - [W3-Underfitting bestfitting overfitting](C1/C1_W3_Lab08_Overfitting_Soln.ipynb)
   - [W3-Regularization](C1/C1_W3_Lab09_Regularization_Soln.ipynb)
   - [W3-Logistic Regression Assignment](C1/Assignments/C1_W3_Logistic_Regression.ipynb)
+
+- Advanced Learning Algorithms
+
+  - [W1-Neurons and Layers](C2/W1/C2_W1_Lab01_Neurons_and_Layers.ipynb)
+  - [W1-Coffee Roasting](C2/W1/C2_W1_Lab02_CoffeeRoasting_TF.ipynb)
+  - [W1-Coffee Roasting Numpy](C2/W1/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
+  - [W1-Assignment](C2/W1/C2_W1_Assignment.ipynb)
+  - [W2-Backpropagation](C2/W2/C2_W2_Backprop.ipynb)
+  - [W2-Derivatives](C2/W2/C2_W2_Derivatives.ipynb)
+  - [W2-Multiclass classification](C2/W2/C2_W2_Multiclass_TF.ipynb)
+  - [W2-Relu](C2/W2/C2_W2_Relu.ipynb)
+  - [W2-Softmax](C2/W2/C2_W2_SoftMax.ipynb)
+  - [W2-Assinment](C2/W2/C2_W2_Assignment.ipynb)
+  - [W3-Model Evaluation and Selection](C2/W3/C2W3_Lab_01_Model_Evaluation_and_Selection.ipynb)
+  - [W3-Bias and Variance](C2/W3/C2W3_Lab_02_Diagnosing_Bias_and_Variance.ipynb)
+  - [W3-Assignment](C2/W3/C2_W3_Assignment.ipynb)
+  - [W4-Decision Trees](C2/W4/C2_W4_Lab_01_Decision_Trees.ipynb)
+  - [W4-Trees Ensemble](C2/W4/C2_W4_Lab_02_Tree_Ensemble.ipynb)
